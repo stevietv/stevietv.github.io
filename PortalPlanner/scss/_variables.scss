@@ -1,0 +1,22 @@
+// Colors
+$black:     #0b0c0d;
+$darkgreen: #102023;
+$midteal:   #004f4a;
+$orange:    #ebbc4a;
+$red:       #a94442;
+$darkred:   darken($red, 37%);
+$teal:      #59fbea;
+$white:     #fff;
+
+// Typography
+$font-stack: 'Coda', sans-serif;
+$text-color: $orange;
+$link-color: $teal;
+$normal:     400;
+$heavy:      700;
+
+// Edges
+$corner: 0;
+
+// Footer
+$footerheight: 70px;
